@@ -6,6 +6,7 @@ To build (on linux):
 g++ -std=c++11 ./lispc.cpp
 
 To run:
+```
 ./a.out
 >  (+ 1 1)
 2
@@ -15,3 +16,4 @@ To run:
 nil
 >  (* x 6)        
 18
+```
